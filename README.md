@@ -1,7 +1,7 @@
 # OST_Placement-Task
 
 # Eventify
-![image](https://github.com/Anupam5972/OST_Placement-Task/assets/86146673/766960fd-5dc6-44dc-8f8d-cc202130340f)
+![image](https://github.com/Anupam5972/OST_Placement-Task/assets/86146673/f5afa01b-1204-4d19-9bce-4d133bb1b5b6)
 
 ## Description
 
