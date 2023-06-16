@@ -1,10 +1,13 @@
 # OST_Placement-Task
 
-![Project Logo or Banner](images/logo.png)
+# Eventify
+![image](https://github.com/Anupam5972/OST_Placement-Task/assets/86146673/766960fd-5dc6-44dc-8f8d-cc202130340f)
 
 ## Description
 
 The project is a website that showcases a collection of content related to a specific topic. It allows users to search for and browse through various items, such as articles, videos, images, and documents, all within a single platform. The goal of the project is to provide a centralized and convenient way for users to access and discover relevant content.
+
+![image](https://github.com/Anupam5972/OST_Placement-Task/assets/86146673/e63d572f-f0c8-4882-a343-6a934d10a42c)
 
 ## Features
 
