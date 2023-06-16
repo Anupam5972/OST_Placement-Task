@@ -1,6 +1,6 @@
 # OST_Placement-Task
 
-![Project Logo or Banner](path/to/logo.png)
+![Project Logo or Banner](path/to/images/logo.png)
 
 ## Description
 
